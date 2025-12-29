@@ -25,6 +25,14 @@ Innovative AI Engineer with a background in Software Engineering and Data Analys
 ---
 
 
+### 🎓 Education
+* **Bachelor of Computer Science**
+    * *MTI Umiversity* | 2023
+    * *Relevant Coursework:* Data Structures, Algorithms, Machine Learning, Statistics.
+
+---
+
+
 ### 📫 Connect with me
 <a href="https://www.linkedin.com/in/omarayoubai/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-Omar%20Ayoub-0077B5?style=for-the-badge&logo=linkedin" alt="Omar Ayoub LinkedIn" />
