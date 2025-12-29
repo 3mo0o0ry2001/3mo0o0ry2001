@@ -24,17 +24,6 @@ Innovative AI Engineer with a background in Software Engineering and Data Analys
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🧠 [Arabic Emotion Analysis](https://github.com/3mo0o0ry2001/Arabic-Emotion-Analysis)
-> *Deep Learning model designed to classify and detect emotions within Arabic text with high accuracy.*
-* **Tech Stack:** Python, Transformers, AraBERT.
-
-#### 📝 [Text Summarization](https://github.com/3mo0o0ry2001/Text-Summarization)
-> *Implementation of state-of-the-art transformer models to generate concise summaries from long documents.*
-* **Tech Stack:** PyTorch, Hugging Face, Seq2Seq.
-
----
 
 ### 📫 Connect with me
 <a href="https://www.linkedin.com/in/omarayoubai/" target="blank">
